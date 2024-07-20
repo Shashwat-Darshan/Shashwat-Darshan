@@ -4,6 +4,7 @@
 - I am currently a student with major in CS
 - You can find my latest resume [here](https://drive.google.com/file/d/1XHnf_ZEvG6s85ciyphafEG2_d3rr8ePY/view?usp=drive_link)
 - You can reach me via **[Linkedin](https://www.linkedin.com/in/shashwat-darshan-b183b7260/)**
+- **[Codeforces](https://codeforces.com/profile/Sdking0001)**
 
 <h3 align="left">Current skills</h3>
 
