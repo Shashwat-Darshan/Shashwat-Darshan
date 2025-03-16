@@ -12,7 +12,7 @@ I am a Computer Science student specializing in **Backend Web Development** and 
 
 ## 🚀 Skills & Technologies
 ### **Languages**
-- C, C++, Python, Java, R
+- C, C++, Python, Java, R , JavaScript , Go
 
 ### **Backend & Databases**
 - Node.js, Express.js, FastAPI, Java Servlets
