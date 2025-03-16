@@ -1,18 +1,38 @@
-<h2>Hi 👋, I'm Shashwat Darshan</h2>
+# Hi there! 👋 I'm Shashwat Darshan
 
-- I am interested in **Backend web development** and **Artificial Intelligence**
-- I am currently a student with major in CS
-- You can find my latest resume [here](https://drive.google.com/file/d/1XHnf_ZEvG6s85ciyphafEG2_d3rr8ePY/view?usp=drive_link)
-- You can reach me via **[Linkedin](https://www.linkedin.com/in/shashwat-darshan-b183b7260/)**
-- **[Codeforces](https://codeforces.com/profile/Sdking0001)**
+🚀 **Backend Development Specialist | AI Enthusiast**
 
-<h3 align="left">Current skills</h3>
+I am a Computer Science student specializing in **Backend Web Development** and **Artificial Intelligence**. I thrive on solving complex problems, building scalable applications, and continuously enhancing my skills through hands-on projects.
 
-### Languages
-- C
-- C++
-- Python
-- Java
-- Rlang
+## 🔥 About Me
+- 🎯 Currently delving into **backend development** and **AI-driven applications**.
+- 💡 Enhancing my knowledge in **system design**, **database management**, and **security practices**.
+- 🔍 Exploring advanced **data structures and algorithms** for efficient problem-solving.
+- ✨ Open to collaborations on **backend projects**, **machine learning integrations**, and **open-source contributions**.
 
-I am a passionate and dedicated learner, currently pursuing my studies in Computer Science. My interests lie in Backend Web Development and Artificial Intelligence, where I continuously strive to deepen my knowledge and enhance my skills. With a commitment to personal and professional growth, I am eager to take on new challenges and opportunities. I am ready to develop my expertise and carve my path to the top, leveraging my skills and enthusiasm to make a significant impact in the tech industry.
+## 🚀 Skills & Technologies
+### **Languages**
+- C, C++, Python, Java, R
+
+### **Backend & Databases**
+- Node.js, Express.js, FastAPI, Java Servlets
+- PostgreSQL, MongoDB, Firebase
+
+### **Tools & Platforms**
+- Git & GitHub, Docker, Postman, Linux, Bash scripting
+
+## 📌 Featured Projects
+- 🌿 **[NatureVigil](https://github.com/Shashwat-Darshan/NatureVigil)** – An environmental monitoring system designed to track and analyze ecological data, promoting sustainability and conservation efforts.
+- 🔥 **[MedPal](https://github.com/Shashwat-Darshan/MedPal)** – An advanced clinical decision support system providing diagnostic assistance and patient care recommendations.
+- 🔍 **[Humraaz](https://github.com/Shashwat-Darshan/Humraaz_Law-Copilot-)** – A conceptual platform aimed at user-driven decision-making in legal contexts.
+- 💻 **More projects coming soon...** (Explore my repositories!)
+
+## 📜 Resume & Contact
+- 📄 [View My Resume](https://drive.google.com/file/d/1yvINpTtjALoGplp3KVKpDkokAqdEzDLo/view?usp=sharing)
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/shashwat-darshan-b183b7260/)
+- 🎮 Check out my [Codeforces](https://codeforces.com/profile/Sdking0001) Profile
+- 📫 Reach me at shashwat.darshan.dev@gmail.com
+
+---
+
+Let's build something amazing together! 🚀
