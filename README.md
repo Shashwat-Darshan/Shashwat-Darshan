@@ -111,10 +111,6 @@ drwxr-xr-x  2 shashwat dev 4096 Jun 21 12:00 nature-vigil/
 
 These are artifacts recovered from recent development adventures. For more details and live demos, **[visit my portfolio](https://shashwat-darshan-portfolio-v2.vercel.app/)**.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat-Darshan&repo=SmartSearch&theme=radical&hide_border=true&bg_color=0D1117" alt="SmartSearch" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shashwat-Darshan&repo=MedPal&theme=radical&hide_border=true&bg_color=0D1117" alt="MedPal" />
-</div>
 
 | Project | Tech Stack | Log Entry | Status |
 |---|---|---|---|
@@ -233,8 +229,8 @@ $ cat ~/.bashrc | grep TODO
 $ fortune | cowsay
    _____________________________________
  / The best debugger ever written is a   \
-| good night's sleep.                    |
-|                                        |
+| good night's sleep.                     |
+|                                         |
  \ - Anonymous Developer                 /
    -------------------------------------
         \   ^__^
